@@ -1,0 +1,79 @@
+.todo-wrapper {
+  margin-top: 50px;
+  background-color: aliceblue;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  font-weight: 250;
+  width: 500px;
+}
+
+.images {
+  border-radius: 50%;
+}
+
+.line-spacing {
+  margin-top: 0.05em;
+  margin-bottom: 0.05em;
+}
+
+.box {
+  background-color: #e2e2e2;
+  color: black;
+  border-radius: 15px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+#boa {
+  background-color: brown;
+  color: white;
+  padding: 15px;
+  border-radius: 15px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+.figure-whyu {
+  text-align: center;
+}
+
+figure {
+  display: inline-block;
+}
+
+figcaption {
+  text-align: center;
+}
+
+.blck {
+  text-align: center;
+}
+
+blockquote {
+  text-align: center;
+}
+
+.button-whyu {
+  text-align: center;
+}
+
+.cont-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center-button {
+  background-color: #ffa500;
+  color: aliceblue;
+  padding: auto;
+  border-radius: 15px;
+  text-align: center;
+  border: 0;
+}
